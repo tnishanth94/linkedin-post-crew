@@ -33,7 +33,7 @@ llm = LLM(
 # image_llm =LLM(
 #     provider="litellm",
 #     model="gemini/imagen-4.0-generate-00",
-#     api_key="AIzaSyA7xqbcG5Y0CHfwarWFQLKydzyV9nn76-s",
+#     api_key="apikey",
 #     temperature=0.5,
 #     verbose=True
 # )
